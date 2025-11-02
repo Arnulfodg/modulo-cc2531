@@ -31,3 +31,36 @@ Antes de ejecutar el script, asegúrate de tener lo siguiente:
 Instálalo manualmente con:
 ```bash
 sudo apt-get install -y build-essential
+
+⚠️ Advertencias
+
+⚡ Este proceso sobrescribe completamente el firmware actual del CC2531.
+
+🧲 No desconectes el dispositivo mientras se realiza el flasheo.
+
+🔌 Asegúrate de tener el adaptador CC-Debugger o un flasher USB CC2531 compatible.
+
+🧑‍💻 Créditos
+
+flash_cc2531
+ – Herramienta creada por jmichault.
+
+Z-Stack Firmware
+ – Firmware mantenido por Koenkk (Zigbee2MQTT Project).
+
+Script de automatización desarrollado por Arnulfo De Gracia (MIDESMIS).
+
+🤝 Contribuciones
+
+¿Tienes mejoras o nuevas ideas?
+Crea un Pull Request o abre un Issue en el repositorio.
+
+📜 Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.
+Consulta el archivo LICENSE para más información.
+
+📡 Contacto
+
+Autor: Arnulfo De Gracia
+Proyecto: MIDESMIS Labs
